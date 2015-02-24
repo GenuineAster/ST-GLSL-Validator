@@ -1,0 +1,51 @@
+[
+  {
+    "caption": "Preferences",
+    "id": "preferences",
+    "children": [
+      {
+        "caption": "Package Settings",
+        "id": "package-settings",
+        "children": [
+          {
+            "caption": "GLSL Validator",
+            "id": "glslvalidator",
+            "children": [
+              {
+                "command": "open_file",
+                "args": {
+                  "file": "${packages}/GLSL Validator/GLSLValidator.sublime-settings"
+                },
+                "caption": "Settings - Default"
+              },
+              {
+                "command": "open_file",
+                "args": {
+                  "file": "${packages}/GLSL Validator/README.md"
+                },
+                "caption": "README"
+              },
+              {
+                "command": "open_file",
+                "args": {
+                  "file": "${packages}/GLSL Validator/LICENSE"
+                },
+                "caption": "LICENSE"
+              },
+              {
+                "command": "open_file",
+                "args": {
+                  "file": "${packages}/GLSL Validator/NOTICE"
+                },
+                "caption": "NOTICE"
+              },
+              {
+                "caption": "-"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

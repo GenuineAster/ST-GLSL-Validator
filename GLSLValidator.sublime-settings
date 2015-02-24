@@ -1,0 +1,6 @@
+/*
+  GLSL Validator settings
+ */
+{
+  "glslvalidator_enabled": 1
+}

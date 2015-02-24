@@ -1,0 +1,1 @@
+{"version": "2015.02.24.12.27.30", "url": "https://github.com/Mischa-Alff/GLSL-Validator", "platforms": ["*"], "dependencies": [], "sublime_text": "*", "description": "A desktop GLSL and GLSL ES validator for Sublime Text 2 and 3, based off of https://github.com/WebGLTools/GL-Shader-Validator."}
