@@ -25,7 +25,7 @@ class glslangValidatorCommandLine:
     glslangValidatorPath = {
         "osx": "./glslangValidatorLinux",
         "linux": "./glslangValidatorLinux",
-        "windows": "./glslangValidatorWindows.exe"
+        "windows": "glslangValidatorWindows.exe"
     }
 
     def ensure_script_permissions(self):
